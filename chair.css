@@ -45,6 +45,8 @@ p {
 
 .section-fluid-main {
   position: relative;
+
+  
   display: block;
   width: 100%;
   overflow: hidden;
